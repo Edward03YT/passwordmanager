@@ -1,4 +1,4 @@
-# passwordmanager
+# 🔐 Password Generator & Manager
 🔐 Password Generator &amp; Manager
 A secure and user-friendly Python application that helps you generate strong passwords, evaluate their strength, and securely store them for future use.
 ✨ Features
