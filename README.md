@@ -39,3 +39,15 @@ Store your passwords safely:
    ```bash
    git clone https://github.com/yourusername/password-generator.git
    cd password-generator
+
+
+   # Password Generator
+
+This is a simple yet powerful password manager and generator built using Python. It helps you generate strong passwords, securely store them, and retrieve them when needed.
+
+## 🚀 Installation
+
+### Install required dependencies:
+
+```bash
+pip install pyperclip cryptography
